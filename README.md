@@ -1,4 +1,3 @@
-# todo_summary
 # Todo Summary Assistant
 
 A full-stack application with a Spring Boot backend and React frontend, allowing users to manage to-dos, store them in Supabase, summarize them using Cohere, and send summaries to Slack.
@@ -6,6 +5,11 @@ A full-stack application with a Spring Boot backend and React frontend, allowing
 ## Project Structure
 - `backend/`: Spring Boot backend (REST API, Supabase, Cohere, Slack).
 - `frontend/`: React frontend (UI, API calls via axios).
+
+- ## 🌿 Branch Structure
+
+> **`main` branch** → Contains the Spring Boot **backend**  
+> **`frontend` branch** → Contains the React **frontend**
 
 ## Prerequisites
 - **Java 17+** and **Maven** (for backend).
